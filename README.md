@@ -11,7 +11,7 @@
 
 - 🔭 Estagiário de Web Development.
 - 🌱 Estudando ReactJS / React Native / NextJS / TypeScript.
-- 🏹 Futuro Software Engineer. 
+- 🏹 Futuro Full Stack Developer. 
 
 <div align="center">
   <a href="https://github.com/Rafael-Araujo-dev">
