@@ -10,7 +10,8 @@
 ### Olá! Eu sou Rafael!👋
 
 - 🔭 Estagiário de Web Development.
-- 🌱 Estudando ReactJS / React Native / NextJS / TypeScript.
+- 🎓 Graduando Ciência da Computação(UNIP) & Análise e Desenvolvimento de Sistemas(UNICID).
+- 🌱 Estudando ReactJS / React Native / NextJS / TypeScript & futuramente Data Science.
 - 🏹 Futuro Full Stack Developer. 
 
 <div align="center">
