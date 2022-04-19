@@ -16,16 +16,16 @@
  
 <p align="center">
   <a href="mailto:web.dev@orafaelribeiro.com" alt="Email" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&for-the-badge&logo=microsoft-outlook&logoColor=white&link=web.dev@orafaelribeiro.com" /></a>
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/rafael-ribeiro-araujo/" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ribeiro-araujo/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
   <a href="https://wa.me/5515981212156" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5515981212156"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
  
   <a href="https://orafaelribeiro.com/" alt="Website" target="_blank">
-  <img src="https://img.shields.io/badge/website-000000?style=flat-square&for-the-badge&logo=About.me&logoColor=white&link=https://orafaelribeiro.com/"/></a>
+  <img src="https://img.shields.io/badge/website-000000?style=flat-square&for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>  
 
 <div align="center">
