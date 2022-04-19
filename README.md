@@ -13,6 +13,20 @@
 - 🎓 Graduando Ciência da Computação(UNIP) & Análise e Desenvolvimento de Sistemas(UNICID).
 - 🌱 Estudando ReactJS / React Native / NextJS / TypeScript & futuramente Data Science.
 - 🏹 Futuro Full Stack Developer. 
+ 
+<p align="center">
+  <a href="#" alt="Email">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=web.dev@orafaelribeiro.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ribeiro-araujo/" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5515981212156"/></a>
+ 
+  <a href="#" alt="Website">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://wa.me/5515981212156"/></a>
+</p>  
 
 <div align="center">
   <a href="https://github.com/Rafael-Araujo-dev">
