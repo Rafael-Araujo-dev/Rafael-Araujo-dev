@@ -11,7 +11,7 @@
 
 - 🔭 Web Developer.
 - 🎓 Graduando Ciência da Computação(UNIP) & Análise e Desenvolvimento de Sistemas(UNICID).
-- 🌱 Estudando ReactJS / React Native / NextJS / TypeScript & futuramente Data Science.
+- 🌱 Estudando ReactJS / React Native / NextJS / TypeScript & VR Development - Oculus from Meta
 - 🏹 Futuro Full Stack Developer. 
  
 <p align="center">
